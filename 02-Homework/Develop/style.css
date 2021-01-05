@@ -15,17 +15,18 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
-  color: black;
+  font-family: monospace ;
+  background-color: rgb(184, 183, 183);
+  color: teal;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
 
-.description{
+.descript{
   white-space: pre-wrap;
 }
 
-.time-block{
+.timeBlocks{
   text-align: center;
   border-radius: 15px;
 }
@@ -37,7 +38,7 @@ textarea{
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #9a9a9a;
   color: #000000;
   border-top: 1px dashed #000000;
 }
@@ -61,7 +62,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: teal;
   color: white;
 }
 
